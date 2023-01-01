@@ -1,7 +1,8 @@
 # Cryptid-Sledgfire-Pump-Action-Clip-Fed-Conversion
-It's a 3D printed conversion that turns the sledgefire into a pump action clip fed shotgun.
+It's a 3D printed conversion that turns the Nerf sledgefire into a pump action clip fed shotgun.
 My printer isn't the most calibrated so some parts may be lose and require adjustment. 
 The fusion file has all the hardware diameters listed as parameters so they can be easily adjusted. 
+The one part that may give people the most grief is the retention notch and its clip. You may need to adjust it to have it work properly thankfully it’s small so trial and error won’t take much time.
 Almost all moving parts are exposed so the images below should help serve as an assembaly referance, with the instructions serving as a step by step of how to put it together.
 
 ![Front](https://user-images.githubusercontent.com/118922600/210118160-e0076178-b878-4f9c-b0df-d125cba3d573.JPG)
